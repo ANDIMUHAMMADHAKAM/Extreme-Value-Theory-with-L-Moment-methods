@@ -1,0 +1,1 @@
+This repository talks about finding the value of the **Lambda** in L-Moment by using the Sample L-Moment. From those **Lambdas**, we can calculate the estimastions value of the paramaters in Generalized Extreme Value and Generalized Pareto Distribution.
