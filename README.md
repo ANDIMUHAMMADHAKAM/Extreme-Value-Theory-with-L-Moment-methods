@@ -1,1 +1,3 @@
 This repository talks about finding the value of the **Lambda** in L-Moment by using the Sample L-Moment. From those **Lambdas**, we can calculate the estimastions value of the paramaters in Generalized Extreme Value and Generalized Pareto Distribution.
+
+The Probability Density Function in this repository is from hosking's formula. The different between hosking's formula and general formula is at the shape parameter. Hosking consider the shape parameter to be negative and the general one considers it to be postive. That's why if you see at the probability density function graph is different with the general one (if you use the package of PDF of those Distribution).
